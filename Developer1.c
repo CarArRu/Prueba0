@@ -1,2 +1,4 @@
-Contribución del Developer1
-Aportación 2 del Developer1
+- Contribución del Developer1
+- Aportación 2 del Developer1
+- Aportación 3 del Developer1
+- Aportación 4 del Developer1
